@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="2000"
+   height="2000"
+   id="svg220"
+   sodipodi:docname="kotak.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview222"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.30790089"
+     inkscape:cx="607.3383"
+     inkscape:cy="1036.0477"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g218" />
+  <defs
+     id="defs113" />
+  <g
+     transform="matrix(2,0,0,2,0.82309648,174.00928)"
+     id="g218">
+    <g
+       id="background-images-2403442b" />
+    <g
+       id="graphpaper-2403442b">
+      <g
+         id="axis-2403442b">
+        <g
+           id="g123">
+          <g
+             id="g121">
+            <path
+               fill="none"
+               stroke="#000000"
+               class="dcg-svg-tickmark"
+               paint-order="fill stroke markers"
+               d=""
+               stroke-opacity="0.9"
+               stroke-miterlimit="2"
+               stroke-width="2"
+               stroke-dasharray="none"
+               id="path119" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="labels-2403442b" />
+    <g
+       id="expressions-2403442b"
+       transform="matrix(1.8539702,0,0,1.8539702,-455.89779,-481.35417)"
+       inkscape:export-filename="expressions-2403442b.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="sketch-2403442b">
+        <title
+           id="title127">Expression 1</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path129" />
+        <g
+           id="g133">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 432.00238,649.13823 v 0 -250.11195"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path131" />
+        </g>
+      </g>
+      <g
+         id="g144">
+        <title
+           id="title136">Expression 2</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path138" />
+        <g
+           id="g142">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 515.37303,649.13823 v 0 -250.11195"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path140" />
+        </g>
+      </g>
+      <g
+         id="g154">
+        <title
+           id="title146">Expression 3</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path148" />
+        <g
+           id="g152">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 432.00238,649.13823 v 0 h 83.37065"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path150" />
+        </g>
+      </g>
+      <g
+         id="g164">
+        <title
+           id="title156">Expression 4</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path158" />
+        <g
+           id="g162">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 432.00238,399.02628 v 0 h 83.37065"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path160" />
+        </g>
+      </g>
+      <g
+         id="g174">
+        <title
+           id="title166">Expression 5</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path168" />
+        <g
+           id="g172">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 515.37303,649.13823 v 0 l 83.37065,-83.37065"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path170" />
+        </g>
+      </g>
+      <g
+         id="g184">
+        <title
+           id="title176">Expression 6</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path178" />
+        <g
+           id="g182">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 598.74368,565.76758 v 0 -250.11195"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path180" />
+        </g>
+      </g>
+      <g
+         id="g194">
+        <title
+           id="title186">Expression 7</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path188" />
+        <g
+           id="g192">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 515.37303,399.02628 v 0 l 83.37065,-83.37065"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path190" />
+        </g>
+      </g>
+      <g
+         id="g204">
+        <title
+           id="title196">Expression 8</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path198" />
+        <g
+           id="g202">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 515.37303,315.65563 v 0 h 83.37065"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path200" />
+        </g>
+      </g>
+      <g
+         id="g214">
+        <title
+           id="title206">Expression 9</title>
+        <path
+           fill="#000000"
+           stroke="none"
+           paint-order="stroke fill markers"
+           d=""
+           fill-opacity="0.4"
+           id="path208" />
+        <g
+           id="g212">
+          <path
+             fill="none"
+             stroke="#000000"
+             class="dcg-svg-curve"
+             paint-order="fill stroke markers"
+             d="m 432.00238,399.02628 v 0 l 83.37065,-83.37065"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             stroke-width="5"
+             stroke-opacity="0.9"
+             stroke-dasharray="none"
+             id="path210" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
