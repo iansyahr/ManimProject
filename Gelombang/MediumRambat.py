@@ -2,8 +2,8 @@ from manim import *
 
 class MediumRambat(Scene):
     def construct(self):
-      kotak = SVGMobject("/content/ManimProject/Gelombang/kotak.svg",height = 5,stroke_color = WHITE).set_stroke(width = 8)
-      gelombang = SVGMobject("/content/ManimProject/Gelombang/gelombangdesmos.svg",height = 1, stroke_color = WHITE).set_stroke(width = 8)
+      kotak = SVGMobject("kotak.svg",height = 5,stroke_color = WHITE).set_stroke(width = 8)
+      gelombang = SVGMobject("gelombangdesmos.svg",height = 1, stroke_color = WHITE).set_stroke(width = 8)
       terbang = NumberPlane()
       kotakkuning = Rectangle(color = YELLOW, height = 3.8, width=6.6)
       kotakkuning.shift(LEFT*3.5 + UP*2)
