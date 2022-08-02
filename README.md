@@ -3,8 +3,8 @@ just regular manim animation
 
 ## TODO
 
-- [ ] Tingkatin ketebalan graph cartesian
+- [x] Tingkatin ketebalan graph cartesian
 
-- [ ] Tingkatin ketebalan gambar SVG
+- [x] Tingkatin ketebalan gambar SVG
 
 - [ ] Tingkatin ketebalan MathText
