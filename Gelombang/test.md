@@ -1,5 +1,8 @@
 Hai
 
+### Main Character
+![](https://github.com/iansyahr/ManimProject/raw/main/Gelombang/character.png)
+
 ### Color Pallate
 ![](https://github.com/iansyahr/ManimProject/raw/main/Gelombang/gambar.png)
 
