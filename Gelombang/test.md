@@ -1,4 +1,4 @@
-Hai
+# GELOMBANG
 
 ### Main Character
 ![](https://github.com/iansyahr/ManimProject/raw/main/Gelombang/character.png)
