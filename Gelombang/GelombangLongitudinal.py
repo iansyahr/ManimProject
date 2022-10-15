@@ -1,9 +1,6 @@
 config.background_color = '#0f0e17'
 class GelombangLongitudinal(MovingCameraScene):
     def construct(self):
-        # The ValueTracker functions as the constant `a` in `sin(ab)`.
-        tracker = ValueTracker(0)
-        
         varup = 0.5
 
         Line1=Line(start = ORIGIN, end = UP*varup,color=BLUE)
@@ -66,6 +63,7 @@ class GelombangLongitudinal(MovingCameraScene):
         #self.add(plan)
         self.add(pruh)
         self.camera.frame.scale(0.5).move_to(RIGHT*2.5 + UP*0.25)
+        tracker = ValueTracker(0)
         T = 0.5
         A = 0.15
         Line1.add_updater(lambda z: z.set_x(0 + A*np.sin(2*PI*(tracker.get_value()-0)*T)))
