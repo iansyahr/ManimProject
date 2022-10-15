@@ -1,3 +1,5 @@
+from manim import *
+
 config.background_color = '#0f0e17'
 class GelombangLongitudinal(MovingCameraScene):
     def construct(self):
