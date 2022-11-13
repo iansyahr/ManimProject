@@ -17,4 +17,8 @@ pip install manim
 
 - [x] Tingkatin ketebalan gambar SVG
 
-- [ ] Tingkatin ketebalan MathText
+- [x] Tingkatin ketebalan MathText
+
+- [ ] fix color get.area()
+
+- [ ] fix latex position
