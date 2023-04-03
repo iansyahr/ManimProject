@@ -1,6 +1,7 @@
 from manim import *
 
 #use transparent mode for this code
+#3d btw
 class Batu_Jatuh_Ke_Air(ThreeDScene):
   def construct(self):
     tebal = ValueTracker(30)
